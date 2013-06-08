@@ -1,3 +1,7 @@
 @import 'reset.css';
 @import 'typo.css';
 @import 'global.css';
+
+.h1 {
+	font-size: 40px;
+}
